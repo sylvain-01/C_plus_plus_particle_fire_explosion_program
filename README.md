@@ -8,7 +8,7 @@ Instructor to the course was John Purcell a software development trainer who has
 
 I used simple direct media layer (SDL) and downloaded there libary. SDL is a cross platform software development library designed to provide a hardware abstraction layer for computer multimedia hardware components. You can find the downloads for there libaries at the SDL home web page here: https://www.libsdl.org/
 
-I used visual studio IDE with C++ code.
+I used visual studio IDE with with a Windows 10 OS using C++ code. 
 To complete the project it took me a total of 7 files
 which i listed and named below.
 
